@@ -1,5 +1,6 @@
 #colby@anathem.io 20190913 SW
 #Set user account and password for service admin
+#dont be dumb, run as admin
 $user = 'test'
 $pass = 'testpass'
 
